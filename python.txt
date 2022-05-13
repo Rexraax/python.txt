@@ -43,7 +43,7 @@ write('mother',(-50,95))
 write('day',(20,95))
 write('you are our world',(-80,65))
 
-wn.mainloop()
+wn.mainloop() thproject is is my first 
 
 
 
